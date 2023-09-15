@@ -1,0 +1,14 @@
+/home/pc/Desktop/retos/bin/Debug/net7.0/retos
+/home/pc/Desktop/retos/bin/Debug/net7.0/retos.deps.json
+/home/pc/Desktop/retos/bin/Debug/net7.0/retos.runtimeconfig.json
+/home/pc/Desktop/retos/bin/Debug/net7.0/retos.dll
+/home/pc/Desktop/retos/bin/Debug/net7.0/retos.pdb
+/home/pc/Desktop/retos/obj/Debug/net7.0/retos.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/Desktop/retos/obj/Debug/net7.0/retos.AssemblyInfoInputs.cache
+/home/pc/Desktop/retos/obj/Debug/net7.0/retos.AssemblyInfo.cs
+/home/pc/Desktop/retos/obj/Debug/net7.0/retos.csproj.CoreCompileInputs.cache
+/home/pc/Desktop/retos/obj/Debug/net7.0/retos.dll
+/home/pc/Desktop/retos/obj/Debug/net7.0/refint/retos.dll
+/home/pc/Desktop/retos/obj/Debug/net7.0/retos.pdb
+/home/pc/Desktop/retos/obj/Debug/net7.0/retos.genruntimeconfig.cache
+/home/pc/Desktop/retos/obj/Debug/net7.0/ref/retos.dll
